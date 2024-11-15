@@ -27,3 +27,7 @@ Using the files the idea is that the front page would replicate a log in/registr
 The main page 'intro.html' is designed in a way that I can update the main body of text to correlate with my professional CV. This also has links to Facebook, LinkedIn, and Instagram - currently these just go to a log in screen.
 
 The learnt screen shows lists and colours, but also tables and the manipulation of the cells.
+
+The font chosen as 'font-family: Verdana, Geneva, Tahoma, sans-serif' as looking on following website sans-serif is better for accessibility as the letters are less decorative and easier for dyslexia, visual impairments, and learning disabilities. taken from: https://business.scope.org.uk/font-accessibility-and-readability-the-basics/?gad_source=1&gclid=Cj0KCQiAire5BhCNARIsAM53K1jogLbcJonikK9bLo1p9qj7TbEmQl1nZogA13vxr1shSMD7JeijOz8aAs4-EALw_wcB
+
+The background colour was also chosen as it takes the harsh white from the background and makes the text easier to read.
